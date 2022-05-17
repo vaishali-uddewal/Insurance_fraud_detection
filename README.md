@@ -1,4 +1,4 @@
-# Insurance_fraud_detection
+# INSURANCE FRAUD DETECTION
 Development of Machine learning model to identify the fraud claims for an insurance company
 
 # EDA(Exploratory Data Analysis )
@@ -17,7 +17,7 @@ After balancing the target variable
 
 
 
-# Deployment (Using Streamlit)
+# DEPLOYMENT (Using Streamlit)
 
 
 ![ifd](https://user-images.githubusercontent.com/61380042/168733810-1879f332-5f1e-43de-b36d-33878576c9db.JPG)
